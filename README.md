@@ -1,1 +1,1 @@
-Simple claculator in tkinder
+#Simple calculator in tkinder
